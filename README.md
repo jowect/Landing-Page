@@ -17,7 +17,7 @@ Scrolling to anchors and dynamic changes in style are also implemented.
 Udacity provides a starter code on github: https://github.com/udacity/fend/tree/refresh-2019/projects/landing-page
 These html and css files can be used as raw structure. The javascript file has to be filled.
 
-### Documents for project submission
+### Documents for Project Submission
 
 css
 - styles.css
