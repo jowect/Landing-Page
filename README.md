@@ -20,8 +20,11 @@ These html and css files can be used as raw structure. The javascript file has t
 ### Documents for project submission
 
 css
-- styles.css    
+- styles.css
+
 index.html
+
 js
 - app.js
+
 README.md
